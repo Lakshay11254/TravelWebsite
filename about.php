@@ -51,8 +51,8 @@
 
    <div class="content">
       <h3>why choose us?</h3>
-      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iure numquam nulla iusto corporis dolor commodi libero, vitae obcaecati optio rerum ab culpa nesciunt, earum mollitia quasi ipsam non. Aliquid, iure.</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid rerum, delectus voluptate aliquam quaerat iusto repellendus error nulla ab atque.</p>
+      <p>Welcome to our travel and tour website! We are a team of passionate travelers who understand the importance of exploring new destinations and creating unforgettable experiences. Our goal is to provide you with the best travel options and personalized services to ensure that your trip is everything you dreamed of and more.With years of experience in the travel industry, we have built a reputation for excellence and have helped countless travelers discover their perfect destinations. Our team is made up of travel experts who are dedicated to providing exceptional customer service and ensuring that every aspect of your trip is seamless and stress-free.
+     We believe that travel is more than just visiting new places. It is about immersing yourself in new cultures, trying new foods, meeting new people, and creating memories that will last a lifetime. That's why we take the time to understand your travel preferences and tailor our services to meet your specific needs.We are committed to providing you with the highest quality of service and making your travel dreams a reality. Thank you for choosing us as your travel partner, and we look forward to helping you create your next unforgettable adventure!</p>
       <div class="icons-container">
          <div class="icons">
             <i class="fas fa-map"></i>
@@ -91,7 +91,7 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
+            <p>"I recently went on a trip organized by this company, and it was the best travel experience of my life. From the moment I contacted them to plan my trip to the day I returned home, everything was taken care of with the utmost care and attention to detail. I can't recommend them enough!"</p>
             <h3>john deo</h3>
             <span>traveler</span>
             <img src="images/pic-1.png" alt="">
@@ -104,8 +104,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus repellendus et suscipit optio similique totam aut laborum ullam sequi! In!</p>
-            <h3>john deo</h3>
+            <p>"I've traveled extensively throughout the years, but this was by far the most enjoyable trip I've ever been on. The guides were incredibly knowledgeable and friendly, the accommodations were top-notch, and the entire trip was organized perfectly. I will definitely be booking with this company again!"</p>
+            <h3>Lisa W</h3>
             <span>traveler</span>
             <img src="images/pic-2.png" alt="">
          </div>
@@ -116,8 +116,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus enim deserunt, ab at ea iste odio placeat doloribus eum dolores tempore obcaecati, dolore esse aperiam. Excepturi ad quo distinctio, dignissimos voluptate, dolores, saepe animi eum atque sint esse ab exercitationem!</p>
-            <h3>john deo</h3>
+            <p>My family and I had an amazing time on our recent vacation planned by this company. The tour guides were fantastic, and we learned so much about the places we visited. I would highly recommend this company to anyone looking for a memorable and hassle-free travel experience."</p>
+            <h3>Austin</h3>
             <span>traveler</span>
             <img src="images/pic-3.png" alt="">
          </div>
@@ -130,8 +130,8 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus recusandae cum quibusdam odio dignissimos nemo?</p>
-            <h3>john deo</h3>
+            <p>I've traveled extensively throughout the years, but this was by far the most enjoyable trip I've ever been on. The guides were incredibly knowledgeable and friendly, the accommodations were top-notch, and the entire trip was organized perfectly. I will definitely be booking with this company again!"</p>
+            <h3>Sarah M</h3>
             <span>traveler</span>
             <img src="images/pic-4.png" alt="">
          </div>
@@ -141,11 +141,13 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
+            <p>"I recently went on a trip organized by this company, and it was the best travel experience of my life. From the moment I contacted them to plan my trip to the day I returned home, everything was taken care of with the utmost care and attention to detail. I can't recommend them enough!"</p>
             <h3>john deo</h3>
             <span>traveler</span>
-            <img src="images/pic-5.png" alt="">
+            <img src="images/pic-1.png" alt="">
          </div>
 
          <div class="swiper-slide slide">
@@ -155,10 +157,36 @@
                <i class="fas fa-star"></i>
                <i class="fas fa-star"></i>
             </div>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus facilis laudantium magnam saepe magni ullam possimus laborum voluptas, veniam ipsum officiis quae doloribus minima ut quis. Molestiae qui distinctio possimus?</p>
-            <h3>john deo</h3>
+            <p>"I've traveled extensively throughout the years, but this was by far the most enjoyable trip I've ever been on. The guides were incredibly knowledgeable and friendly, the accommodations were top-notch, and the entire trip was organized perfectly. I will definitely be booking with this company again!"</p>
+            <h3>Lisa W</h3>
             <span>traveler</span>
-            <img src="images/pic-6.png" alt="">
+            <img src="images/pic-2.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>My family and I had an amazing time on our recent vacation planned by this company. The tour guides were fantastic, and we learned so much about the places we visited. I would highly recommend this company to anyone looking for a memorable and hassle-free travel experience."</p>
+            <h3>Austin</h3>
+            <span>traveler</span>
+            <img src="images/pic-3.png" alt="">
+         </div>
+
+         <div class="swiper-slide slide">
+            <div class="stars">
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+               <i class="fas fa-star"></i>
+            </div>
+            <p>I've traveled extensively throughout the years, but this was by far the most enjoyable trip I've ever been on. The guides were incredibly knowledgeable and friendly, the accommodations were top-notch, and the entire trip was organized perfectly. I will definitely be booking with this company again!"</p>
+            <h3>Sarah M</h3>
+            <span>traveler</span>
+            <img src="images/pic-4.png" alt="">
          </div>
 
       </div>

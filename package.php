@@ -54,8 +54,8 @@
             <img src="images/img-1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Taj Mahal</h3>
+            <p>Taj Mahal is an ivory-white marble mausoleum on the right bank of the Yamuna river in the Indian city of Agra.</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -65,8 +65,9 @@
             <img src="images/Mumbai_1.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Clock tower</h3>
+            <p>Mumbai, the financial capital of India, is an architectural treasure trove.
+          The clock towers date back to the British era.</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -76,8 +77,8 @@
             <img src="images/abc.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Taj Hotel</h3>
+            <p>The Taj Hotel is known for their exquisite architecture, luxurious  hospitality, and are located in some of the most beautiful destinations in the world.</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
@@ -87,8 +88,8 @@
             <img src="images/bcd.jpg" alt="">
          </div>
          <div class="content">
-            <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <h3>Eiffel Tower</h3>
+            <p>The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, France.</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
