@@ -100,7 +100,7 @@
          </div>
          <div class="content">
             <h3>adventure & tour</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, perspiciatis!</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, !</p>
             <a href="book.php" class="btn">book now</a>
          </div>
       </div>
